@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Digital Democracy</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don’t have an account? Register</string>
+    <string name="emailfp">Registered Email</string>
+
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+
+    <string name="register_success">Registration Successful!</string>
+    <string name="register_failed">Registration Failed! Please try again.</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="login_failed">Login Failed! Check your credentials.</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="enter_password">Please enter your password</string>
+
+    <string name="vote_now">Vote Now</string>
+    <string name="view_results">View Results</string>
+    <string name="logout">Logout</string>
+
+</resources>

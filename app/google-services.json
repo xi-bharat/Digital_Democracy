@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960011055937",
+    "project_id": "digital-democracy-da58d",
+    "storage_bucket": "digital-democracy-da58d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960011055937:android:6bff3f528a6ecc2f9e27c0",
+        "android_client_info": {
+          "package_name": "com.digitaldemocracy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wYzXPajyMr7F572VJLJv0UvubrFv5ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
